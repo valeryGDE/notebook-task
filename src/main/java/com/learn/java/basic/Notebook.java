@@ -42,7 +42,6 @@ public class Notebook {
                     notesResult.add(note);
                 }
             } catch (Exception e) {
-                System.out.println(e.getLocalizedMessage());
             }
         }
         return notesResult;
