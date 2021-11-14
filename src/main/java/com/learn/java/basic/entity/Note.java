@@ -1,4 +1,4 @@
-package com.learn.java.basic;
+package com.learn.java.basic.entity;
 
 import java.io.Serializable;
 import java.util.Date;
